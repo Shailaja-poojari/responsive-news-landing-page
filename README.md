@@ -44,9 +44,9 @@ Will be deployed on [Vercel](https://vercel.com) soon...
 
 ##  Author
 
-**Shailaja S P**  
+**Shailaja**  
 - [GitHub](https://github.com/Shailaja-poojari)
-- [LinkedIn](https://www.linkedin.com/in/shailaja-poojari)
+- [LinkedIn](https://www.linkedin.com/in/shailaja-poojary-621760330)
 
 ---
 
